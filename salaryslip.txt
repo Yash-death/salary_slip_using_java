@@ -1,0 +1,26 @@
+date (dd/mm/yy)
+  - date formatting class
+
+salary slip
+  basic salary - amount
+  hra - 50 % of a
+  da - 15% of a
+  ta - 40% of a
+  ma - 30% of a
+  pf - 5% by myself and 5 % by employer = 10% of a
+  gs - BS * HRA+ DA+ta+ma
+  ns - gs - tax - pf
+  tax = 10%of gs
+employee
+  -id
+  -name
+  -salary
+  -hra()
+  -da()
+  -ta()
+  -pa()
+
+formatting 
+  - dateformat
+  - currencyformat
+  - nameformat
